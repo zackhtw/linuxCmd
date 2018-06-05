@@ -1,4 +1,9 @@
 # linuxCmd
+
+# sudo apt-get update
+
+sudo apt-get install python3-pip
+
 #swap 
 
 df -h
