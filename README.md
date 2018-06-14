@@ -49,3 +49,11 @@ sudo bash nodesource_setup.sh
 sudo apt-get install nodejs
 
 nodejs -v
+
+#scp
+
+scp ./file root@ip:/root/location
+
+#ssh
+
+ssh root@ip
